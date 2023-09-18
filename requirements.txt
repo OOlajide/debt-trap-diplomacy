@@ -1,1 +1,2 @@
 plotly_express==0.4.0
+millify==0.1.1
